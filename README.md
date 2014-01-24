@@ -19,7 +19,7 @@ For starting application you need to do this steps:
 2.  Have ready installed Maven 3.X version
 3.  Get the source from GitHub
   
-  git clone https://github.com/stalkermn/ciklum-test-app.git
+      git clone https://github.com/stalkermn/ciklum-test-app.git
 
 4.  Enter to the directory and run Maven:
   

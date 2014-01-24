@@ -29,5 +29,5 @@ For starting application you need to do this steps:
 
   java -jar {application-name}.jar
 
-For all questions, please email me: valerij.vasilkov@gmail.com
--------------------------
+For all questions, please email me: 
+* valerij.vasilkov@gmail.com

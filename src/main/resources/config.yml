@@ -1,0 +1,4 @@
+mongoConfiguration:
+  mongohost: localhost
+  mongoport: 27017
+  mongodbname: mydb

@@ -25,7 +25,7 @@ For starting application you need to do this steps:
   
   mvn install
 
-5.  At "/target" directory you will have a .jar file, that can be started by next command:
+5.  In "/target" directory you will have a .jar file, that can be started by next command:
 
   java -jar {application-name}.jar
 

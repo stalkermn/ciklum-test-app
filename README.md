@@ -31,3 +31,17 @@ For starting application you need to do this steps:
 
 For all questions, please email me: 
 * valerij.vasilkov@gmail.com
+
+
+
+URL Mappings:
+-------------------------
+    GET     /address/{id}
+    POST    /address/
+    PUT     /address/{id} 
+    DELETE  /address/{id}
+    
+    GET     /address/{id}/phones
+    POST    /address/{id}/phone
+    PUT     /address/{id}/phone
+    DELETE  /address/{id}/phone

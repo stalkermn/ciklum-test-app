@@ -36,12 +36,13 @@ For all questions, please email me:
 
 URL Mappings:
 -------------------------
-    GET     /address/{id}
-    POST    /address/
-    PUT     /address/{id} 
-    DELETE  /address/{id}
+    GET     /address/{id}         -   get the address by id
+    POST    /address/             -   add new address
+    PUT     /address/{id}         -   update the address by id
+    DELETE  /address/{id}         -   delete address by id
     
-    GET     /address/{id}/phones
-    POST    /address/{id}/phone
-    PUT     /address/{id}/phone
-    DELETE  /address/{id}/phone
+    GET     /address/{id}/phones  -   get address phones by address id
+    POST    /address/{id}/phone   -   add phone to address by  id
+    DELETE  /address/{id}/phone   -   delete phone by address id
+    
+    GET     /                     -   "Hello world" test message
